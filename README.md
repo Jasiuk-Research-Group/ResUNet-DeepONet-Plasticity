@@ -17,13 +17,8 @@ The DeepONet implementation and training is based on DeepXDE:
 The implementation of the ResUNet is adapted from Jan Palase:
 https://github.com/JanPalasek/resunet-tensorflow
 
-If you find our model helpful in your specific applications and researches, please cite our paper:
-@article{he2023novel,
-  title={Novel DeepONet architecture to predict stresses in elastoplastic structures with variable complex geometries and loads},
-  author={He, Junyan and Koric, Seid and Kushwaha, Shashank and Park, Jaewan and Abueidda, Diab and Jasiuk, Iwona},
-  journal={arXiv preprint arXiv:2306.03645},
-  year={2023}
-}
+If you find our model helpful in your specific applications and researches, please cite this article as: 
+J. He, S. Koric, S. Kushwaha et al., Novel DeepONet architecture to predict stresses in elastoplastic structures with variable complex geometries and loads,Computer Methods in Applied Mechanics and Engineering (2023) 116277, https://doi.org/10.1016/j.cma.2023.116277.
 
 
 The training data is large in size and can be downloaded through the following UIUC Box link:
